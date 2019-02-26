@@ -1,0 +1,1 @@
+Using BFS to find minimum dice rolls to win snake and ladders by visualizing it as a tree structure with child nodes( that can be reached with dice roll upto 6 including ladders). As well as snake and ladder game.
